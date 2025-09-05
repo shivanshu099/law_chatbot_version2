@@ -50,6 +50,7 @@ python main.py
 
 #screenshot
 
-![lami chatbot](https://github.com/shivanshu099/law_chatbot_version2/blob/main/screenshot1.png)
+![lami chatbot](https://github.com/shivanshu099/law_chatbot_version2/blob/main/screenshot3.png)
+
 
 
