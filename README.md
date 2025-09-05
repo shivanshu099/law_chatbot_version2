@@ -12,7 +12,11 @@
 ## Tech Stack
 - **Backend:** FastAPI, Python  
 - **Frontend:** React  
-- **AI:** LangChain, RAG, Groq API  
+- **AI:** LangChain, RAG, Groq API
+
+  #please add groq api key in .env file
+
+  you can get from this link   https://console.groq.com/keys
 
 ## Installation
 
